@@ -1,0 +1,9 @@
+﻿  ImageTransferAndRenaming.cpp
+c:\users\user\source\repos\imagetransferandrenaming\imagetransferandrenaming\imagetransferandrenaming.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\imagetransferandrenaming\imagetransferandrenaming\imagetransferandrenaming.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\imagetransferandrenaming\imagetransferandrenaming\imagetransferandrenaming.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\imagetransferandrenaming\imagetransferandrenaming\imagetransferandrenaming.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\imagetransferandrenaming\imagetransferandrenaming\imagetransferandrenaming.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\imagetransferandrenaming\imagetransferandrenaming\imagetransferandrenaming.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\imagetransferandrenaming\imagetransferandrenaming\imagetransferandrenaming.cpp(202): warning C4018: '<': signed/unsigned mismatch
+  ImageTransferAndRenaming.vcxproj -> C:\Users\User\source\repos\ImageTransferAndRenaming\Debug\ImageTransferAndRenaming.exe
